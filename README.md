@@ -1,5 +1,5 @@
 # test_workshop
-A short workshop about Testing Rails.
+A short workshop about Testing.
 
 Presentation link: http://slides.com/royzinn/deck
 
